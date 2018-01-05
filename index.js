@@ -20,7 +20,7 @@ return newarr;
 function iLoveTheBeatles(n){
  const statement = "I love the Beatles!";
  var namearray = [];
-  
+  if (n < 15) {
    do {
      for (let i = 1; i < 8; i++){
        namearray[i] = statement;
@@ -28,7 +28,7 @@ function iLoveTheBeatles(n){
          --n;
       }
    while (n > 0)
-  
+  }
   
   return namearray;
 }
