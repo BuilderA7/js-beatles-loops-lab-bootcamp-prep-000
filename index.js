@@ -1,7 +1,7 @@
 
   
    const punct = "!!!";
-   newarr = [fact, fact2, fact3, fact4];
+  // newarr = [fact, fact2, fact3, fact4];
 function theBeatlesPlay(musicians, instruments){
   var artistInstrument = [];
   for (let i = 0; i < musicians.length; i++){
