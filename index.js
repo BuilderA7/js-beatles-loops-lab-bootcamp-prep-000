@@ -1,6 +1,6 @@
 
   
-   const punct = "!!!"
+   const punct = "!!!";
    newarr = [fact, fact2, fact3, fact4];
 function theBeatlesPlay(musicians, instruments){
   var artistInstrument = [];
