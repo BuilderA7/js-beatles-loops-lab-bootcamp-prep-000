@@ -1,8 +1,5 @@
 
-  fact = "He was the last Beatle to learn to drive";
-  fact2 = "He was never a vegetarian";
-  fact3 = "He was a choir boy and boy scout";
-  fact4 = "He hated the sound of his own voice";
+  
    const punct = "!!!"
    newarr = [fact, fact2, fact3, fact4];
 function theBeatlesPlay(musicians, instruments){
