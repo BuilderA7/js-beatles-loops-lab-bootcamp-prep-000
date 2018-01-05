@@ -1,4 +1,4 @@
-statement = "I love the Beatles!";
+
   fact = "He was the last Beatle to learn to drive";
   fact2 = "He was never a vegetarian";
   fact3 = "He was a choir boy and boy scout";
@@ -23,6 +23,7 @@ function johnLennonFacts(){
 return newarr;
 }
 function iLoveTheBeatles(n){
+ const statement = "I love the Beatles!";
  if (n == 7){ 
    var namarray = [];
    
