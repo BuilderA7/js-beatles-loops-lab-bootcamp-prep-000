@@ -15,10 +15,8 @@ function theBeatlesPlay(musicians, instruments){
 }
 function johnLennonFacts(newarr){
   
- 
-  
   for (let i = 0; i < window.newarr.length; i++){
-    newarr[i] = [newarr[i] + window.punct];
+    newarr[i] = '${newarr[i]} ${window.punct}`;
   }
 return newarr;
 }
