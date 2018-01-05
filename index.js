@@ -25,7 +25,7 @@ function iLoveTheBeatles(n){
      for (let i = 1; i < n; i++){
        namearray[i] = statement;
         }
-         --n;
+         n--;
       }
    while (n > 0)
   }
