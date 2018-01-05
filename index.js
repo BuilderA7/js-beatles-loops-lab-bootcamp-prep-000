@@ -4,7 +4,7 @@
   fact3 = "He was a choir boy and boy scout";
   fact4 = "He hated the sound of his own voice";
    const punct = "!!!"
-   newarr = [window.fact, window.fact2, window.factd, window.fact4];
+   newarr = [fact, fact2, fact3, fact4];
 function theBeatlesPlay(musicians, instruments){
   var artistInstrument = [];
   for (let i = 0; i < musicians.length; i++){
