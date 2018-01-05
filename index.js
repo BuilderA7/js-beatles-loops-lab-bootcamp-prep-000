@@ -29,6 +29,8 @@ function iLoveTheBeatles(n){
       }
    while (n > -1)
   }
-  
+  else {
+    return namearray = ["I love the Beatles!"];
+  }
   return namearray;
 }
