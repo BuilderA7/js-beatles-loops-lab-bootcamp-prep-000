@@ -23,7 +23,7 @@ function iLoveTheBeatles(n){
  if (n == 7){ 
    do {
      for (let i = 1; i < 8; i++){
-       namaray[i] = window.statement;
+       namarray[i] = window.statement;
         }
          --n;
       }
