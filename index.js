@@ -22,7 +22,7 @@ function iLoveTheBeatles(n){
  var namearray = [];
   if (n < 15) {
    do {
-     for (let i = 1; i < 8; i++){
+     for (let i = 1; i < n; i++){
        namearray[i] = statement;
         }
          --n;
