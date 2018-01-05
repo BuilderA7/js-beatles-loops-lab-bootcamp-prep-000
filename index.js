@@ -19,11 +19,11 @@ return newarr;
 }
 function iLoveTheBeatles(n){
  const statement = "I love the Beatles!";
-  namarray = new Array();
+  namearray = [];
  if (n == 7){ 
    do {
      for (let i = 1; i < 8; i++){
-       namarray[i] = window.statement;
+       namearray[i] = window.statement;
         }
          --n;
       }
